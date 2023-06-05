@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+.black {
+  color: black;
+}
+
+@media (max-width: 770px) {
+  #responsive-navbar-nav {
+    display: block;
+  }
+}
